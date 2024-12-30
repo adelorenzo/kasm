@@ -1,10 +1,10 @@
 {
   "description": "Tailscale running on Ubuntu Focal",
   "docker_registry": "https://index.docker.io/v1/",
-  "name": "kasmweb/vs-code:develop",
-  "image_src": "vs-code.png",
+  "name": "adelorenzo74/kasm-tc:0.1",
+  "image_src": "tailscale_icon.png",
   "categories": [
-    "Development"
+    "VPN"
   ],
   "friendly_name": "Tailscale",
   "architecture": [
@@ -13,6 +13,5 @@
   ],
   "compatibility": [
     "1.16.x"
-  ],
-  "uncompressed_size_mb": 2170
+  ]
 }
