@@ -1,6 +1,6 @@
 {
   "friendly_name": "Tailscale",
-  "image_src": "blob:https://adelorenzo.github.io/ce867db6-fdc0-4a0c-816f-179702d1356c",
+  "image_src": "tailscale_icon.png",
   "description": "Ubuntu kasm desktop with tailscale",
   "name": "adelorenzo/kasm-tc:01",
   "cores": 2,
