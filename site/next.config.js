@@ -6,7 +6,7 @@ const nextConfig = {
     description: 'The official store for adelorenzo kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://adelorenzo.github.io/kasm/',
-    contactUrl: 'https://adelorenzo.github.io/kasm/support',
+    contactUrl: 'https://github.com/adelorenzo/kasm/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
